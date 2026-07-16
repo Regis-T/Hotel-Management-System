@@ -231,11 +231,15 @@ Run the main application class.
 
 ---
 
-# 👨‍💻 Author
+## 👨‍💻 Author
 
 **Regis Tosku**
 
 Software Engineering Student
+
+[![GitHub](https://img.shields.io/badge/GitHub-Regis--T-181717?style=for-the-badge&logo=github)](https://github.com/Regis-T)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Regis%20Tosku-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/regis-tosku-b7884433a)
 
 ---
 
